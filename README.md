@@ -1,6 +1,6 @@
 # hng_login_system
 
-# Front End | Back End | Design - Task 1
+Front End | Back End | Design - Task 1
 1.  Create a team of 10
 2.  Each team should have at least 2 of each track (front end, back end and design)
 3.  Your designer should not be in the selected designer track, only those who are interested in design but not selected so far, this is a chance for them to show what they can do
@@ -15,7 +15,7 @@ Extra Points (finish above before you dive into this extra point):
 
 * And write about each on lucid
 
-# Restraints:
+Restraints:
 
 Backend is not allowed to use any framework - You are to hardcode your authentication
 
